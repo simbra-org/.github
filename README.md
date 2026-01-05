@@ -6,4 +6,4 @@
 [![Contributor Covenant 3.0 Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
 <!-- badges: end -->
 
-This repository contains the community files of the Interdisciplinary Brazilian Symposium on Agent-Based Models ([SIMBRA]((https://simbra.com.br))).
+This repository contains the community files of the Interdisciplinary Brazilian Symposium on Agent-Based Models ([SIMBRA](https://simbra.com.br)).
