@@ -13,7 +13,7 @@ Our work is guided by three core principles:
 - **Interdisciplinarity**: We believe that combining insights from different fields is essential to enrich how we discuss and apply ABMs.
 - **Horizontality**: We believe in self-managing as a organization and producing clear, accessible content that avoids unnecessary jargon or barriers, while maintaining strong scientific rigor.
 
-[Join us](https://github.com/orgs/abmstudygroup/discussions/2) in exploring ABMs and their role in understanding and addressing complex challenges.
+Join us in exploring ABMs and their role in understanding and addressing complex challenges.
 
 For more information, visit our [website](https://simbra.com.br) or contact us at hi@simbra.com.br.
 
@@ -31,7 +31,7 @@ For more information, visit our [website](https://simbra.com.br) or contact us a
     </td>
     <td width="70%">
       <p>
-        The Brazilian Interdisciplinary Symposium on Agent-Based Models ([SIMBRA]((https://simbra.com.br))) was originally developed within the <a href="https://www.fsp.usp.br/sustentarea/">Sustentarea</a> Research and Extension Center at the University of São Paulo (<a href="https://www5.usp.br/">USP</a>), which continues to support its activities.
+        The Brazilian Interdisciplinary Symposium on Agent-Based Models (<a href="https://simbra.com.br">SIMBRA</a>) was originally developed within the <a href="https://www.fsp.usp.br/sustentarea/">Sustentarea</a> Research and Extension Center at the University of São Paulo (<a href="https://www5.usp.br/">USP</a>), which continues to support its activities.
       </p>
     </td>
   </tr>
