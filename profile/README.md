@@ -31,7 +31,7 @@ For more information, visit our [website](https://simbra.com.br) or contact us a
     </td>
     <td width="70%">
       <p>
-        The Brazilian Interdisciplinary Symposium on Agent-Based Models (<a href="https://simbra.com.br">SIMBRA</a>) was originally developed within the <a href="https://www.fsp.usp.br/sustentarea/">Sustentarea</a> Research and Extension Center at the University of São Paulo (<a href="https://www5.usp.br/">USP</a>), which continues to support its activities.
+        The Interdisciplinary Brazilian Symposium on Agent-Based Models (<a href="https://simbra.com.br">SIMBRA</a>) was originally developed within the <a href="https://www.fsp.usp.br/sustentarea/">Sustentarea</a> Research and Extension Center at the University of São Paulo (<a href="https://www5.usp.br/">USP</a>), which continues to support its activities.
       </p>
     </td>
   </tr>
